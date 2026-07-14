@@ -13,7 +13,6 @@
 📚 Sempre estudando. Sempre codando. Sempre melhorando.
 
 > "First, solve the problem. Then, write the code."
-```
 
 ____________________________________________________________________________________________________________________________
 
