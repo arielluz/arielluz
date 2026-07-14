@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ariel da Luz Rosa
 
-💻 Desenvolvedor Back-end e Front-end em formação.
+💻 Desenvolvedor Back-end e Full Stack em formação.
 
 📍 Santa Catarina, Brasil
 
@@ -32,24 +32,7 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Snake Animation
+## 🐍 Minhas Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -57,7 +40,7 @@
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 <p align="left">
   <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
