@@ -13,9 +13,9 @@
 
 🛠️ Experiência prática na construção, manutenção e aprimoramento contínuo de projetos e sistemas.
 
-📚 Comprometido com aprendizado contínuo e evolução profissional na área de tecnologia.
+📚 Comprometido com aprendizado contínuo e evolução na área de tecnologia.
 
-> "First, solve the problem. Then, write the code."
+"First, solve the problem. Then, write the code."
 
 ____________________________________________________________________________________________________________________________
 
