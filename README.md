@@ -14,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
