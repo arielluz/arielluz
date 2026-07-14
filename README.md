@@ -34,26 +34,22 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="left">
-  <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
+  <a href="https://www.instagram.com/_ariel.lz/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arielluz&theme=onedark&no-frame=true&margin-w=15" />
-</p>
+  <a href="https://discord.com/">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
 
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40"/>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arielluz&theme=radical" />
-</p>
+
