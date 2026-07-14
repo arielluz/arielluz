@@ -38,6 +38,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arielluz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
 </a>
