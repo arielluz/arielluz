@@ -42,10 +42,6 @@
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/SEU_USUARIO">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
