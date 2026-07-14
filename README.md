@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arielluz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arielluz&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
