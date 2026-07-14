@@ -3,7 +3,17 @@
 🚀 Desenvolvendo projetos com:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,js,html,css,nodejs,mysql" />
+  🚀 Desenvolvendo projetos com:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
+</p>
 </p>
 
 ⚡ Focado em criar soluções eficientes, aprender novas tecnologias e evoluir constantemente.
