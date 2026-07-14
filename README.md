@@ -1,7 +1,10 @@
-```txt
 💻 Transformando café em código desde cedo.
 
-🚀 Desenvolvendo projetos com C, C#, JavaScript, HTML, CSS, SQL e Node.js.
+🚀 Desenvolvendo projetos com:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,js,html,css,nodejs,mysql" />
+</p>
 
 ⚡ Focado em criar soluções eficientes, aprender novas tecnologias e evoluir constantemente.
 
@@ -9,7 +12,7 @@
 
 📚 Sempre estudando. Sempre codando. Sempre melhorando.
 
-"First, solve the problem. Then, write the code."
+> "First, solve the problem. Then, write the code."
 ```
 
 ____________________________________________________________________________________________________________________________
