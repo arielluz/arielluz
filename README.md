@@ -32,15 +32,12 @@
 > *"First, solve the problem. Then, write the code."*
 
 ---
-
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
----
 <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
 </a>
