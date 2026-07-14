@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ariel da Luz Rosa
 
-💻 Desenvolvedor Back-end e Full Stack em formação.
+💻 Desenvolvedor Back-end e Front-end em formação.
 
 📍 Santa Catarina, Brasil
 
