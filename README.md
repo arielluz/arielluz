@@ -1,5 +1,3 @@
-💻 Desenvolvedor apaixonado por tecnologia e pela criação de soluções através do código.
-
 🚀 Experiência e desenvolvimento de projetos utilizando:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
