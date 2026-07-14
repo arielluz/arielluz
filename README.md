@@ -18,6 +18,6 @@
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
 </a>
 
-![GitHub](https://img.shields.io/badge/GitHub-ariel-black?style=for-the-badge&logo=github)
-
-![Discord](https://img.shields.io/badge/Discord-username-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://www.facebook.com/seu.usuario" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" />
+</a>
