@@ -1,7 +1,7 @@
 ```txt
 💻 Transformando café em código desde cedo.
 
-🚀 Desenvolvendo projetos com C, C#, JavaScript, TypeScript, HTML, CSS, SQL e Node.js.
+🚀 Desenvolvendo projetos com C, C#, JavaScript, HTML, CSS, SQL e Node.js.
 
 ⚡ Focado em criar soluções eficientes, aprender novas tecnologias e evoluir constantemente.
 
