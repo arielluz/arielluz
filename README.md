@@ -18,6 +18,10 @@
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
 </a>
 
-<a href="https://www.facebook.com/seu.usuario" target="_blank">
+<a href="https://www.facebook.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" />
+</a>
+
+<a href="https://discord.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" />
 </a>
