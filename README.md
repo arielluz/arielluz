@@ -14,6 +14,6 @@
 
 
 
-![Instagram]([![Instagram](https://img.shields.io/badge/Instagram-@_ariel.lz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ariel.lz/)
+![Instagram]([![Instagram](https://img.shields.io/badge/)](https://www.instagram.com/_ariel.lz/)
 ![GitHub](https://img.shields.io/badge/GitHub-ariel-black?style=for-the-badge&logo=github)
 ![Discord](https://img.shields.io/badge/Discord-username-5865F2?style=for-the-badge&logo=discord&logoColor=white)
