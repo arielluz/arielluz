@@ -52,3 +52,12 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40"/>
   </a>
 </p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<h3 align="center">
+🚀 Construindo soluções. Aprendendo todos os dias.
+</h3>
