@@ -38,7 +38,7 @@
 
 ---
 
-## Contato
+Contato
 
 <p align="left">
   <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
