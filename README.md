@@ -1,16 +1,13 @@
-## Hi there 👋
+```txt
+💻 Transformando café em código desde cedo.
 
-<!--
-**arielluz/arielluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvendo projetos com C, C#, JavaScript, TypeScript, HTML, CSS, SQL e Node.js.
 
-Here are some ideas to get you started:
+⚡ Focado em criar soluções eficientes, aprender novas tecnologias e evoluir constantemente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Construindo projetos, quebrando coisas, aprendendo e reconstruindo melhor.
+
+📚 Sempre estudando. Sempre codando. Sempre melhorando.
+
+"First, solve the problem. Then, write the code."
+```
