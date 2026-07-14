@@ -1,137 +1,84 @@
-<h1 align="center">
-Olá 👋, eu sou Ariel da Luz Rosa
-</h1>
+# 👋 Olá, eu sou Ariel da Luz Rosa
 
-<h3 align="center">
-💻 Desenvolvedor Back-end e Full Stack em formação
-</h3>
+💻 Desenvolvedor Back-end e Full Stack em formação.
 
-<p align="center">
-📍 Santa Catarina • Brasil
-</p>
+📍 Santa Catarina, Brasil
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Experiência e desenvolvimento de projetos utilizando:
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,nodejs,mysql,git,github,vscode,visualstudio" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="48" height="48"/>
 </p>
+
+⚡ Focado no desenvolvimento de soluções eficientes, escaláveis e de alta qualidade.
+
+🛠️ Experiência prática na construção, manutenção e aprimoramento contínuo de projetos e sistemas.
+
+📚 Comprometido com aprendizado contínuo e evolução na área de tecnologia.
+
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Streak
+# 🔥 Sequência de Contribuições
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Projetos
+# 🐍 Snake Animation
 
-## 📦 Sistema de Controle de Estoque
-
-Sistema desenvolvido utilizando C#, MySQL e Windows Forms.
-
-🔹 Cadastro de Produtos
-
-🔹 Entrada e Saída
-
-🔹 Relatórios
-
----
-
-## 📅 Agenda Inteligente
-
-Agenda Web para gerenciamento de salas.
-
-✔ JavaScript
-
-✔ Node.js
-
-✔ MySQL
-
----
-
-## 🔐 Sistema de Login
-
-Sistema de autenticação utilizando Node.js.
-
----
-
-# 📚 Atualmente estudando
-
-- ✅ C#
-- ✅ .NET
-- ✅ APIs REST
-- ✅ SQL Server
-- ✅ Clean Code
-
----
-
-# 💡 Sobre mim
-
-Sou apaixonado por tecnologia e programação.
-
-Meu objetivo é desenvolver aplicações modernas, escaláveis e de alta qualidade.
-
-Estou sempre buscando novos desafios e aprendizados.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
 # 📫 Contato
 
-<p align="center">
+<p align="left">
+  <a href="https://www.instagram.com/_ariel.lz/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
+  </a>
 
-<a href="https://instagram.com/SEUINSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
+  </a>
 
-<a href="https://linkedin.com/in/SEULINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40"/>
+  </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<i>"First, solve the problem. Then, write the code."</i>
-
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=flat" />
 </p>
