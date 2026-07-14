@@ -1,7 +1,6 @@
-💻 Transformando café em código desde cedo.
+💻 Desenvolvedor apaixonado por tecnologia e pela criação de soluções através do código.
 
-🚀 Desenvolvendo projetos com:
-
+🚀 Experiência e desenvolvimento de projetos utilizando:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=cs" title="C#" width="48" height="48"/>
@@ -12,11 +11,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
 </p>
 
-⚡ Focado em criar soluções eficientes, aprender novas tecnologias e evoluir constantemente.
+⚡ Focado no desenvolvimento de soluções eficientes, escaláveis e de alta qualidade.
 
-🛠️ Construindo projetos, quebrando coisas, aprendendo e reconstruindo melhor.
+🛠️ Experiência prática na construção, manutenção e aprimoramento contínuo de projetos e sistemas.
 
-📚 Sempre estudando. Sempre codando. Sempre melhorando.
+📚 Comprometido com aprendizado contínuo e evolução profissional na área de tecnologia.
 
 > "First, solve the problem. Then, write the code."
 
