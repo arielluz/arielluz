@@ -7,6 +7,15 @@
 ---
 
 ## 🚀 Experiência e desenvolvimento de projetos utilizando:
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arielluz&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/arielluz"
+      width="700"
+      alt="GitAnimals"
+    />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
@@ -37,15 +46,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arielluz&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/arielluz"
-      width="700"
-      alt="GitAnimals"
-    />
-  </a>
-</p>
+
 
 
 
