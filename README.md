@@ -50,11 +50,6 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" />
 </a>
 
-<h2 align="center">🎮 3D Contributions</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
 
 
 
