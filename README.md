@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ariel da Luz Rosa
 
-💻 Desenvolvedor Back-end e Front-end em formação.
+💻 Desenvolvedor Back-end e Front-end em formação.                                           <img src="https://komarev.com/ghpvc/?username=arielluz&style=for-the-badge&color=blue"/>
 
 📍 Santa Catarina, Brasil
 
