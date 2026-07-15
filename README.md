@@ -50,23 +50,5 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" />
 </a>
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arielluz&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/arielluz"
-      width="700"
-      alt="GitAnimals"
-    />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arielluz&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/arielluz"
-      width="700"
-      alt="GitAnimals Farm"
-    />
-  </a>
-</p>
 
