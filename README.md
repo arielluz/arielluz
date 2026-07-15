@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arielluz&label=VISITANTES&color=3b82f6&style=for-the-badge" />
-</p>
+
 
 # 👋 Olá, eu sou Ariel da Luz Rosa
 
