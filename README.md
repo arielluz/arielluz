@@ -37,10 +37,14 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielluz&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://img.shields.io/badge/Back--end-C%23-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Front--end-JavaScript-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
+
 </p>
 
 
