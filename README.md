@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=arielluz&label=PROFILE+VIEWS&color=6f42c1&style=for-the-badge" />
 </p>
 
