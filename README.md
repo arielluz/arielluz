@@ -38,13 +38,13 @@
 
 </p>
 <p align="center">
-
-<img src="https://img.shields.io/badge/Back--end-C%23-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Front--end-JavaScript-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
-
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arielluz&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/arielluz"
+      width="700"
+      alt="GitAnimals"
+    />
+  </a>
 </p>
 
 
