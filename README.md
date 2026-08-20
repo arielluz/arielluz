@@ -45,8 +45,6 @@
 <a href="https://www.facebook.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" />
 </a>
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
+
+
