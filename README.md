@@ -55,7 +55,7 @@ O **SIGA** é uma plataforma web desenvolvida para auxiliar no gerenciamento de 
 - ☁️ Armazenamento de arquivos
 - 🔒 Controle de acesso por módulo
 
-### 🛠️ Tecnologias
+### 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48"/>
@@ -97,7 +97,7 @@ Essa conquista representa o resultado do trabalho, da dedicação e da busca por
 - 📋 Organização das informações
 - 👥 Controle de usuários e acessos
 
-### 🛠️ Tecnologias
+### 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
@@ -122,7 +122,7 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 - 🔎 Consulta de chamados
 - 📊 Acompanhamento das solicitações
 
-### 🛠️ Tecnologias
+### 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
