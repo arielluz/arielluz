@@ -143,35 +143,7 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="48" height="48"/>
 </p>
 
----
 
-# ☁️ Deploy & Infraestrutura
-
-<p align="left">
-
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://render.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://supabase.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" title="Supabase" width="50" height="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" title="GitHub" width="50" height="50"/>
-</a>
-
-</p>
 
 | Plataforma | Utilização |
 |---|---|
@@ -181,31 +153,3 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 | ⚫ **GitHub** | Versionamento e gerenciamento do código |
 
 ---
-
-# 🏗️ Arquitetura
-
-```text
-                    👤 Usuário
-                        │
-                        ▼
-              ┌─────────────────┐
-              │     Vercel      │
-              │    Front-end    │
-              │  React + Vite   │
-              └────────┬────────┘
-                       │
-                       │ API
-                       ▼
-              ┌─────────────────┐
-              │      Render     │
-              │     Back-end    │
-              │ Node.js + API   │
-              └────────┬────────┘
-                       │
-             ┌─────────┴─────────┐
-             │                   │
-             ▼                   ▼
-      ┌─────────────┐     ┌─────────────┐
-      │  Supabase   │     │   Storage   │
-      │ PostgreSQL  │     │  Arquivos   │
-      └─────────────┘     └─────────────┘
