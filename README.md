@@ -129,6 +129,7 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
 </p>
+
 ---
 
 # 💻 Tecnologias e ferramentas
