@@ -29,11 +29,12 @@ Durante minha experiência de desenvolvimento, participei da criação de difere
 ## 🏆 SIGA — Sistema Integrado de Gestão e Atendimento
 
 <p align="center">
-  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="220"/>
+  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="240"/>
 </p>
 
 <p align="center">
-  <strong>Sistema Integrado de Gestão e Atendimento</strong>
+  <strong>Sistema Integrado de Gestão e Atendimento</strong><br>
+  Plataforma web para centralização e gerenciamento de processos internos.
 </p>
 
 > Plataforma desenvolvida para centralizar processos, informações e operações em um único sistema.
@@ -143,3 +144,68 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 </p>
 
 ---
+
+# ☁️ Deploy & Infraestrutura
+
+<p align="left">
+
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://render.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" title="Supabase" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717" title="GitHub" width="50" height="50"/>
+</a>
+
+</p>
+
+| Plataforma | Utilização |
+|---|---|
+| ▲ **Vercel** | Deploy e hospedagem do Front-end |
+| 🟢 **Render** | Hospedagem do Back-end |
+| 🟢 **Supabase** | Banco de dados PostgreSQL e armazenamento |
+| ⚫ **GitHub** | Versionamento e gerenciamento do código |
+
+---
+
+# 🏗️ Arquitetura
+
+```text
+                    👤 Usuário
+                        │
+                        ▼
+              ┌─────────────────┐
+              │     Vercel      │
+              │    Front-end    │
+              │  React + Vite   │
+              └────────┬────────┘
+                       │
+                       │ API
+                       ▼
+              ┌─────────────────┐
+              │      Render     │
+              │     Back-end    │
+              │ Node.js + API   │
+              └────────┬────────┘
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+             ▼                   ▼
+      ┌─────────────┐     ┌─────────────┐
+      │  Supabase   │     │   Storage   │
+      │ PostgreSQL  │     │  Arquivos   │
+      └─────────────┘     └─────────────┘
