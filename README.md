@@ -128,6 +128,8 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
+   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" width="48" height="48"/>
 </p>
 
 ---
