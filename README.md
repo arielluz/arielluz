@@ -27,11 +27,6 @@ Durante minha experiência de desenvolvimento, participei da criação de difere
 ---
 
 ## 🏆 SIGA — Sistema Integrado de Gestão e Atendimento
-
-<p align="center">
-  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="240"/>
-</p>
-
 <p align="center">
   <strong>Sistema Integrado de Gestão e Atendimento</strong><br>
   Plataforma web para centralização e gerenciamento de processos internos.
