@@ -97,12 +97,12 @@ Essa conquista representa o resultado do trabalho, da dedicação e da busca por
 - 📋 Organização das informações
 - 👥 Controle de usuários e acessos
 
-### 🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias
 
-- 🌐 **HTML5** — Desenvolvimento da interface
-- 📊 **Google Sheets** — Organização e armazenamento das informações
-- ⚙️ **Google Apps Script** — Automação e integração com as planilhas
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=google" title="Google Sheets / Google Apps Script" width="48" height="48"/>
+</p>
 ---
 
 ## 🎫 Sistema de Chamados
@@ -121,12 +121,13 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 - 🔎 Consulta de chamados
 - 📊 Acompanhamento das solicitações
 
-### 🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias
 
-- 🌐 **HTML5** — Estrutura da aplicação
-- 🎨 **CSS3** — Estilização e layout
-- ⚡ **JavaScript** — Lógica e funcionalidades do sistema
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
+</p>
 ---
 
 # 💻 Tecnologias e ferramentas
