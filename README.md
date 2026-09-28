@@ -30,7 +30,7 @@ Durante minha experiência de desenvolvimento, participei da criação de difere
 
 <p align="center">
   <strong>Sistema Integrado de Gestão e Atendimento</strong><br>
-  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="180"/>
+  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="120"/>
 </p>
 
 > Plataforma desenvolvida para centralizar processos, informações e operações em um único sistema.
