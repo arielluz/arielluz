@@ -116,6 +116,8 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
   <img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=render" title="Render" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
