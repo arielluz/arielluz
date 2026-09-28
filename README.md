@@ -121,24 +121,3 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 </p>
 
 ---
-
-# 🧠 Experiência
-
-Minha experiência prática envolve diferentes etapas do desenvolvimento de software:
-
-```text
-💡 Análise de necessidades
-        ↓
-🎨 Desenvolvimento Front-end
-        ↓
-⚙️ Desenvolvimento Back-end
-        ↓
-🗄️ Banco de dados
-        ↓
-🔐 Autenticação e permissões
-        ↓
-🔗 Integração entre sistemas
-        ↓
-☁️ Deploy e infraestrutura
-        ↓
-🛠️ Manutenção e evolução
