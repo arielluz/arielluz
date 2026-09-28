@@ -28,6 +28,14 @@ Durante minha experiência de desenvolvimento, participei da criação de difere
 
 ## 🏆 SIGA — Sistema Integrado de Gestão e Atendimento
 
+<p align="center">
+  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="220"/>
+</p>
+
+<p align="center">
+  <strong>Sistema Integrado de Gestão e Atendimento</strong>
+</p>
+
 > Plataforma desenvolvida para centralizar processos, informações e operações em um único sistema.
 
 O **SIGA** é uma plataforma web desenvolvida para auxiliar no gerenciamento de diferentes processos internos, reunindo funcionalidades de gestão, controle, atendimento, documentação e acesso em um único ambiente.
