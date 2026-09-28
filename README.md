@@ -101,7 +101,7 @@ Essa conquista representa o resultado do trabalho, da dedicação e da busca por
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=google" title="Google Sheets / Google Apps Script" width="48" height="48"/>
+   <img src="https://cdn.simpleicons.org/googleappsscript/4285F4" title="Google Apps Script" width="48" height="48"/>
 </p>
 
 ---
