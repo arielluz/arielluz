@@ -73,6 +73,16 @@ O **SIGA** é uma plataforma web desenvolvida para auxiliar no gerenciamento de 
 
 Projeto voltado para organização dos produtos e acompanhamento das movimentações do estoque, centralizando as informações necessárias para o gerenciamento dos itens.
 
+### 🏆 Reconhecimento — Prêmio IEL
+
+O projeto foi reconhecido no **Prêmio IEL**, conquistando o **5º lugar em uma competição de alcance estadual**, que reuniu projetos desenvolvidos por estagiários de todo o estado de Santa Catarina.
+
+Essa conquista representa o resultado do trabalho, da dedicação e da busca por soluções tecnológicas voltadas para necessidades reais, contribuindo para o desenvolvimento de melhorias nos processos de controle e gerenciamento de estoque.
+
+🥇 **Destaque:** 5º lugar no Prêmio IEL  
+🏅 **Abrangência:** Estadual — Santa Catarina  
+💻 **Categoria:** Projeto desenvolvido durante o estágio
+
 ### ⚙️ Principais funcionalidades
 
 - 📦 Cadastro e gerenciamento de produtos
