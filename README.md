@@ -1,75 +1,3 @@
-# 👋 Olá, eu sou Ariel da Luz Rosa
-
-💻 Desenvolvedor **Back-end e Front-end em formação**
-
-📍 Santa Catarina, Brasil
-
----
-
-## 🚀 Sobre mim
-
-Sou desenvolvedor em formação, com experiência prática no desenvolvimento de sistemas web, atuando tanto no **Front-end quanto no Back-end**.
-
-Tenho experiência na criação, manutenção e evolução de sistemas, trabalhando desde a construção das interfaces até APIs, banco de dados, autenticação, controle de acesso e integração entre diferentes serviços.
-
-⚡ Focado no desenvolvimento de soluções eficientes, escaláveis e de alta qualidade.
-
-🛠️ Experiência prática na construção, manutenção e aprimoramento contínuo de projetos e sistemas.
-
-📚 Comprometido com aprendizado contínuo e evolução na área de tecnologia.
-
----
-
-# 🏢 Projetos desenvolvidos para o SENAI
-
-Durante minha experiência de desenvolvimento, participei da criação de diferentes sistemas voltados para necessidades reais do SENAI.
-
----
-
-## 🏆 SIGA — Sistema Integrado de Gestão e Atendimento
-
-<p align="center">
-  <strong>Sistema Integrado de Gestão e Atendimento</strong><br>
-  <img src="./assets/siga-logo.png" alt="Logo do SIGA" width="120"/>
-</p>
-
-> Plataforma desenvolvida para centralizar processos, informações e operações em um único sistema.
-
-O **SIGA** é uma plataforma web desenvolvida para auxiliar no gerenciamento de diferentes processos internos, reunindo funcionalidades de gestão, controle, atendimento, documentação e acesso em um único ambiente.
-
-### ⚙️ Principais funcionalidades
-
-- 👥 Gestão de pessoas e terceiros
-- 🏢 Empresas autorizadas
-- 🚪 Controle de portaria
-- 👤 Gestão de visitantes
-- 🎫 Sistema de chamados
-- 🎓 Controle de treinamentos
-- 🔐 Usuários, perfis e permissões
-- 🏭 Controle e isolamento por unidades
-- 📄 Gestão de documentos
-- 📍 Identificação de unidade através de localização
-- 📊 Dashboard
-- 📝 Auditoria
-- 🗑️ Lixeira e recuperação de registros
-- ☁️ Armazenamento de arquivos
-- 🔒 Controle de acesso por módulo
-
-### 🛠️ Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express" title="Express" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
-</p>
-
 ---
 
 ## 📦 Sistema de Estoque
@@ -97,6 +25,17 @@ Essa conquista representa o resultado do trabalho, da dedicação e da busca por
 - 📋 Organização das informações
 - 👥 Controle de usuários e acessos
 
+### 🛠️ Tecnologias utilizadas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=google" title="Google" width="48" height="48"/>
+</p>
+
+- 🌐 **HTML5** — Desenvolvimento da interface
+- 📊 **Google Sheets** — Organização e armazenamento das informações
+- ⚙️ **Google Apps Script** — Automação e integração com as planilhas
+
 ---
 
 ## 🎫 Sistema de Chamados
@@ -115,37 +54,16 @@ A plataforma permite centralizar solicitações, acompanhar seu andamento e orga
 - 🔎 Consulta de chamados
 - 📊 Acompanhamento das solicitações
 
----
-
-# 💻 Tecnologias e ferramentas
+### 🛠️ Tecnologias utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" title="Render" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
 </p>
 
-
-
-| Plataforma | Utilização |
-|---|---|
-| ▲ **Vercel** | Deploy e hospedagem do Front-end |
-| <img src="https://cdn.simpleicons.org/render/46E3B7" width="18"/> **Render** | Hospedagem do Back-end |
-| <img src="https://skillicons.dev/icons?i=supabase" width="18"/> **Supabase** | Banco de dados PostgreSQL e armazenamento |
-| <img src="https://skillicons.dev/icons?i=github" width="18"/> **GitHub** | Versionamento e gerenciamento do código |
+- 🌐 **HTML5** — Estrutura da aplicação
+- 🎨 **CSS3** — Estilização e layout
+- ⚡ **JavaScript** — Lógica e funcionalidades do sistema
 
 ---
