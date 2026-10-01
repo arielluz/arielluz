@@ -69,6 +69,7 @@ O **SIGA** é uma plataforma web desenvolvida para auxiliar no gerenciamento de 
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/postcss/DD3A0A" title="PostCSS" width="48" height="48"/>
 </p>
 
 ---
