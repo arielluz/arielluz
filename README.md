@@ -1,29 +1,32 @@
 # 👋 Olá, eu sou Ariel da Luz Rosa
 
-💻 Desenvolvedor Full Stack em formação  
+<img align="right" width="170" src="https://github.com/arielluz.png" alt="Foto de perfil de Ariel" />
+
+💻 **Desenvolvedor Full Stack em formação**  
 📍 Santa Catarina, Brasil
 
-Desenvolvedor em formação, com experiência prática no desenvolvimento de aplicações web, APIs e sistemas corporativos. Tenho interesse em criar soluções que resolvam problemas reais e melhorem processos.
+Desenvolvedor em formação, com experiência prática no desenvolvimento de aplicações web e sistemas corporativos. Gosto de transformar ideias em soluções tecnológicas e estou sempre buscando evoluir como desenvolvedor.
 
-## 🚀 Conheça meu trabalho
+### 🚀 Conheça meu trabalho
 
-**[Acesse meu portfólio](https://portiofolio-ashen.vercel.app/)**
+[**Acesse meu portfólio**](https://portiofolio-ashen.vercel.app/)
 
-Conheça meus projetos, tecnologias e experiências em desenvolvimento de software.
+### 🛠️ Tecnologias
 
-## 💻 Projetos em destaque
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,cs,git,github" alt="Tecnologias e ferramentas" />
+</p>
 
-- **SIGA — Sistema Integrado de Gestão e Acessos:** plataforma de gestão de processos internos, pessoas, acessos e atendimentos.
-- **Sistema de Estoque:** solução para controle de produtos e movimentações, reconhecida com o 5º lugar no Prêmio IEL, em âmbito estadual.
-- **Sistema de Chamados:** aplicação para registro, organização e acompanhamento de solicitações.
+### 🔗 Conecte-se comigo
 
-## 🛠️ Tecnologias
-
-React · JavaScript · Node.js · Express · PostgreSQL · C# · HTML · CSS · Git
-
-## 🔗 Conecte-se comigo
-
-[GitHub](https://github.com/arielluz) · [Instagram](https://www.instagram.com/_ariel.lz/)
+<p>
+  <a href="https://github.com/arielluz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/_ariel.lz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
